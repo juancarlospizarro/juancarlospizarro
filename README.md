@@ -14,7 +14,7 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 - **Idiomas:** Español (Nativo), Inglés (Intermedio), Francés (Básico)
 
 ## 📫 ¡Conéctate conmigo!
-- **LinkedIn:** [linkedin.com/in/juancarlospizarro](https://www.linkedin.com/in/juancarlospizarroalonso/)
+- **LinkedIn:** [linkedin.com/in/juancarlospizarroalonso](https://www.linkedin.com/in/juancarlospizarroalonso/)
 - **Correo:** jcpizarroalonso@gmail.com
 
 ---
