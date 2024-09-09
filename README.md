@@ -17,8 +17,6 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 - **LinkedIn:** [linkedin.com/in/juancarlospizarroalonso](https://www.linkedin.com/in/juancarlospizarroalonso/)
 - **Correo:** jcpizarroalonso@gmail.com
 
----
-
 Gracias por pasarte por mi perfil. ¡Estoy siempre abierto a nuevas colaboraciones o simplemente a charlar sobre tecnología!
 
 
