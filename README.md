@@ -14,7 +14,7 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 - **Herramientas:** Git, GitHub
 - **Idiomas:** Español (Nativo), Inglés (Intermedio), Francés (Básico)
 
-## 📫 ¡Conéctate conmigo!
+## 📫 ¡Contacta conmigo!
 - **LinkedIn:** [linkedin.com/in/juancarlospizarroalonso](https://www.linkedin.com/in/juancarlospizarroalonso/)
 - **Correo:** jcpizarroalonso@gmail.com
 
@@ -38,7 +38,7 @@ Here you can find projects where I apply what I've learned in areas like data an
 - **Tools:** Git, GitHub
 - **Languages:** Spanish (Native), English (Intermediate), French (Basic)
 
-## 📫 Connect with me!
+## 📫 Contact with me!
 - **LinkedIn:** [linkedin.com/in/juancarlospizarroalonso](https://www.linkedin.com/in/juancarlospizarroalonso/)
 - **Email:** jcpizarroalonso@gmail.com
 
