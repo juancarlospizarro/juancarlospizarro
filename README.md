@@ -9,6 +9,7 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 ## 🛠️ Habilidades:
 - **Lenguajes de Programación:** Python
 - **Ciencia de Datos:** Python para análisis de datos (Pandas, Numpy, Matplotlib, Seaborn)
+- **Análisis de datos:** Microsoft Power BI, Microsoft Excel
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub
 - **Idiomas:** Español (Nativo), Inglés (Intermedio), Francés (Básico)
@@ -32,6 +33,7 @@ Here you can find projects where I apply what I've learned in areas like data an
 ## 🛠️ Skills:
 - **Programming Languages:** Python
 - **Data Science:** Python for data analysis (Pandas, Numpy, Matplotlib, Seaborn)
+- **Data Analysis:** Microsoft Power BI, Microsoft Excel
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
 - **Languages:** Spanish (Native), English (Intermediate), French (Basic)
