@@ -7,14 +7,14 @@ Soy un estudiante apasionado por la informática y los deportes, con un fuerte i
 Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análisis de datos, desarrollo web, y ciencia de datos. ¡Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades!
 
 ## 🛠️ Habilidades:
-- **Lenguajes de Programación:** Python, JavaScript
+- **Lenguajes de Programación:** Python
 - **Ciencia de Datos:** Python para análisis de datos, pandas, numpy
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub
 - **Idiomas:** Español (Nativo), Inglés (Intermedio), Francés (Básico)
 
 ## 📫 ¡Conéctate conmigo!
-- **LinkedIn:** [linkedin.com/in/juancarlospizarro](https://linkedin.com/in/juancarlospizarro)
+- **LinkedIn:** [linkedin.com/in/juancarlospizarro](https://www.linkedin.com/in/juancarlospizarroalonso/)
 - **Correo:** jcpizarroalonso@gmail.com
 
 ---
