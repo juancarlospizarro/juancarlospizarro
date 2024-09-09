@@ -8,7 +8,7 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 
 ## 🛠️ Habilidades:
 - **Lenguajes de Programación:** Python
-- **Ciencia de Datos:** Python para análisis de datos, pandas, numpy
+- **Ciencia de Datos:** Python para análisis de datos (Pandas, Numpy, Matplotlib, Seaborn)
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Herramientas:** Git, GitHub
 - **Idiomas:** Español (Nativo), Inglés (Intermedio), Francés (Básico)
