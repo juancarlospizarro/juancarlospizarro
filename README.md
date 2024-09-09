@@ -19,4 +19,28 @@ Aquí puedes encontrar proyectos donde aplico lo aprendido en áreas como análi
 
 Gracias por pasarte por mi perfil. ¡Estoy siempre abierto a nuevas colaboraciones o simplemente a charlar sobre tecnología!
 
+---
+
+# Hello! 👋 I'm Juan Carlos Pizarro Alonso
+
+### Data Science | Software Development
+
+I am a student passionate about technology and sports, with a strong interest in **Software Development** and **Data Science**. Throughout my academic and self-taught journey, I am constantly seeking new opportunities to expand my knowledge and apply it in real-world projects.
+
+Here you can find projects where I apply what I've learned in areas like data analysis, web development, and data science. I’m always exploring new technologies and improving my skills!
+
+## 🛠️ Skills:
+- **Programming Languages:** Python
+- **Data Science:** Python for data analysis (Pandas, Numpy, Matplotlib, Seaborn)
+- **Web Development:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub
+- **Languages:** Spanish (Native), English (Intermediate), French (Basic)
+
+## 📫 Connect with me!
+- **LinkedIn:** [linkedin.com/in/juancarlospizarroalonso](https://www.linkedin.com/in/juancarlospizarroalonso/)
+- **Email:** jcpizarroalonso@gmail.com
+
+Thanks for visiting my profile! I am always open to new collaborations or just chatting about technology!
+
+
 
