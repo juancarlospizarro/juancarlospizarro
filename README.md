@@ -5,7 +5,7 @@ Soy un estudiante apasionado por la tecnología y el aprendizaje continuo. Me en
 
 ⭐️ **¡Gracias por visitar mi perfil!**
 
-
+---
 
 # 👋 Hi! I'm Juan Carlos Pizarro Alonso
 
