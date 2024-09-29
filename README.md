@@ -1,13 +1,13 @@
 
 # 👋 ¡Hola! Soy Juan Carlos Pizarro Alonso
-Soy un estudiante entusiasta de la tecnología, con una fuerte pasión por el aprendizaje continuo y la resolución de problemas mediante el código. Me gusta enfrentarme a nuevos desafíos y siempre estoy en búsqueda de oportunidades que me permitan mejorar y expandir mis habilidades en desarrollo de software y ciencia de datos. Actualmente, estoy desarrollando proyectos personales donde aplico lo aprendido en el ámbito de desarrollo web y análisis de datos.
+Soy un estudiante entusiasta de la tecnología, que busca constantemente el aprendizaje continuo. Me gusta enfrentarme a nuevos desafíos y siempre estoy en búsqueda de oportunidades que me permitan mejorar y expandir mis habilidades en desarrollo de software y ciencia de datos. Actualmente, estoy desarrollando proyectos personales donde aplico lo aprendido en el ámbito de desarrollo web y análisis de datos.
 
 **¡Gracias por visitar mi perfil!**
 
 ---
 
 # 👋 Hi! I'm Juan Carlos Pizarro Alonso
-I am a tech enthusiast and student with a strong passion for continuous learning and problem-solving through code. I enjoy tackling new challenges and am always on the lookout for opportunities to improve and expand my skills in software development and data science. Currently, I am working on personal projects where I apply my knowledge in web development and data analysis.
+I am a technology enthusiast and a student constantly seeking continuous learning. I enjoy taking on new challenges and am always looking for opportunities to improve and expand my skills in software development and data science. Currently, I am working on personal projects where I apply what I have learned in the fields of web development and data analysis.
 
 **Thank you for visiting my profile!** 
 
