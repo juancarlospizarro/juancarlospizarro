@@ -1,12 +1,11 @@
 Hi 👋 My name is Juan Carlos Pizarro
 ====================================
 
-Big Data Developer & Web Developer
+Software Developer specialized in Big Data
 ----------------------------------
 
 Web Development student and hands-on experience as a Big Data intern at Ayesa, using Apache Spark, Scala and SQL.
-
-Passionate about data, backend development and automation. Open to Erasmus+ internships or junior positions in Europe related to Big Data Development or Web Development.
+Passionate about data, backend development and automation.
 
 * 🌍  I'm based in Seville, Spain
 * 🖥️  See my portfolio at [My portfolio](http://my-portfolio-juancarlospizarroalonso.vercel.app/)
