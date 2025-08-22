@@ -1,11 +1,9 @@
 Hi 👋 My name is Juan Carlos Pizarro
 ====================================
 
-Software Developer
+Data Engineer & Software Developer
 ----------------------------------
-
-Web Development student and hands-on experience as a intern at Ayesa, using Apache Spark, Scala, SQL and Java.
-Passionate about data, backend development and automation.
+Passionate about data, software development and automation.
 
 * 🌍  I'm based in Seville, Spain
 * 🖥️  See my portfolio at [My portfolio](http://my-portfolio-juancarlospizarroalonso.vercel.app/)
