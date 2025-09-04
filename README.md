@@ -1,8 +1,6 @@
 Hi 👋 My name is Juan Carlos Pizarro
 ====================================
 
-Data Engineer & Software Developer
-----------------------------------
 Passionate about data, software development and automation.
 
 * 🌍  I'm based in Seville, Spain
