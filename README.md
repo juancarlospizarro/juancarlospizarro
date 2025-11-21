@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.png) My name is Juan Carlos
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.jpg) My name is Juan Carlos
 ====================================================================================================================================
 
 Passionate about data, software development and automation.
