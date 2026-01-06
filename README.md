@@ -5,7 +5,7 @@ Passionate about data, software development and automation.
 
 * 🌍  I'm based in Seville, Spain
 * ✉️  You can contact me at [jcpizarroalonso@gmail.com](mailto:jcpizarroalonso@gmail.com)
-* 🌐 You can know more of my work here at [my portfolio](https://juancarlospizarro-portfolio.vercel.app)
+* 🌐  You can see more of my work here at [my portfolio](https://juancarlospizarro-portfolio.vercel.app)
 
 ### Socials
 
